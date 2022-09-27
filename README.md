@@ -7,23 +7,17 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 3. [2,6,16,18,22,27]
 
 
-
 Big-O gösterimini yazınız.
-
 O(n^2)
-
-
 
 Time Complexity.
     Average case: O(n^2)
     Worst Case: O(n^2)
     Best Case: O(n)
     
-    
-      
+        
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Cevap: Avarage Case'e girer
-
 
 -----------------------------------------------------------------------------------
 
