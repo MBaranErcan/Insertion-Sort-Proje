@@ -8,6 +8,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 
 Big-O gösterimini yazınız.
+
 O(n^2)
 
 Time Complexity.
